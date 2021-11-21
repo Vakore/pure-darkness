@@ -6,9 +6,14 @@ Use it for challenges or as a budget shader.
 I used vanilla-lightmap by Nixel as a base: https://www.planetminecraft.com/texture-pack/for-resource-pack-developers-vanilla-overworld-lightmap-recreation/
 
 DIFFERENCES:
+
 Pure Darkness: Pitch black. Can only see with light sources.
+
 Hardcore Darkness: You can see in the day, but night and caves are pitch black.
+
 Cinematic Darkness: Pure Darkness except you get a little bit of light at sunrise and sunset.
+
+
 
 Some screenshots:
 
