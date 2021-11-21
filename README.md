@@ -2,6 +2,7 @@
 Some resource packs I made. Requires optifine. Turn on custom colors in optifine settings for it to work.
 I recommend turning dynamic lighting on for the best effects.
 Use it for challenges or as a budget shader.
+Should work in 1.16.1+. If it says outdated pack don't worry about it. It should work.
 
 I used vanilla-lightmap by Nixel as a base: https://www.planetminecraft.com/texture-pack/for-resource-pack-developers-vanilla-overworld-lightmap-recreation/
 
