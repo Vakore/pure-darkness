@@ -14,6 +14,7 @@ Hardcore Darkness: You can see in the day, but night and caves are pitch black.
 
 Cinematic Darkness: Pure Darkness except you get a little bit of light at sunrise and sunset.
 
+Inverse Darkness: Pitch black day, bright night.
 
 
 Some screenshots:
@@ -29,5 +30,3 @@ Some screenshots:
 ![2021-11-21_11 09 40](https://user-images.githubusercontent.com/94314052/142770619-3f565dab-0550-4a40-8b1b-e1e9949af63f.png)
 ![2021-11-21_11 11 18](https://user-images.githubusercontent.com/94314052/142770626-964a2cb6-41ae-4532-8588-5a4859244f64.png)
 ![2021-11-21_11 13 41](https://user-images.githubusercontent.com/94314052/142770627-9a96cea6-2cfe-48bc-850b-fa3ee3b1fab1.png)
-
-On second thought that is more than a few but I'm too lazy to backspace some of them.
